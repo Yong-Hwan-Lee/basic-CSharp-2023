@@ -25,7 +25,7 @@
 
 3일차 윈폼학습 결과	
 <img
-src"https://github.com/Yong-Hwan-Lee/basic-CSharp-2023/blob/main/images/winforms01.png?raw=true" width="700"
+src="https://github.com/Yong-Hwan-Lee/basic-CSharp-2023/blob/main/images/winforms01.png?raw=true" width="700"
 	
 
 	
