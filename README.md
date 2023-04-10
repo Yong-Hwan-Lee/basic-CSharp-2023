@@ -39,10 +39,16 @@
 	
 ## 5일차
 - C# 기본
+	- 인터페이스, 추상클래스
+	- 프로퍼터
 
 - Win App
 	- WinForms 디자인 오류시 해결방법
 	- Window 탐색기 만들기
+
+5일차 탐색기 제작중
+	
+<img src="https://github.com/Yong-Hwan-Lee/basic-CSharp-2023/blob/main/images/winforms02.png?raw=true" width ="700" />	
 
 	
 	
