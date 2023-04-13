@@ -66,7 +66,7 @@
 
 6일차 탐색기 만들기 완료
 
-<img src="https://github.com/Yong-Hwan-Lee/basic-CSharp-2023/blob/main/images/winforms02.png?raw=true" width ="700" />	
+<img src="https://github.com/Yong-Hwan-Lee/basic-CSharp-2023/blob/main/images/winforms03.png?raw=true" width ="700" />	
 ## 7일차
 - C# 기본
 	- 대리자, 이벤트
@@ -79,8 +79,16 @@
 	- DB핸들링
 	- SDI vs MDI
 	
+	
+	
+## 8일차
+- C# 기본
+	- 파일핸들링
+	- 스레드 / 태스크
+	- 가비지 컬렉션
+	
+- Win App	
+	- 메모장 만들기
 	- BookRentalShop DB 사용 WinForms 앱개발
-	- 실습 예제
 	
-	
-	
+<img src="https://github.com/Yong-Hwan-Lee/basic-CSharp-2023/blob/main/images/winforms04.png?raw=true" width ="700" />	
